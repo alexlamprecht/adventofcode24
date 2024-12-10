@@ -2,6 +2,12 @@
 
 Website [https://adventofcode.com/](https://adventofcode.com/)
 
+Puzzles status in this repository:
+
+| Day    | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | 20  | 21  | 22  | 23  | 24  |
+| ------ | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Status | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+
 ## About
 
 Hi! I'm Eric Wastl. I make Advent of Code. I hope you like it! I also make lots of other things. I'm on Bluesky, Mastodon, GitHub, and Twitter.

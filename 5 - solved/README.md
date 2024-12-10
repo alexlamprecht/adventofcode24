@@ -1,4 +1,4 @@
-# Day 4: Ceres Search
+# Day 5: Print Queue
 
 ## Puzzle Part 1
 
