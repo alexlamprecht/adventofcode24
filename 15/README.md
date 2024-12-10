@@ -1,12 +1,12 @@
-# Day 6: Guard Gallivant
+# Day 15
 
-## Puzzle Part 1
+## Part 1
 
 ### Solution
 
 ``
 
-## Puzzle Part Two
+## Part 2
 
 ### Solution
 

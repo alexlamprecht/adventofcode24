@@ -1,4 +1,4 @@
-# Day 6: Guard Gallivant
+# Day 7: Bridge Repair
 
 ## Puzzle Part 1
 
